@@ -11,7 +11,7 @@ void Presentation() {
 }
 ```
 
-[Don't click here](http://korex71.github.io/flappy/) [settings.json](https://gist.github.com/korex71/03cad25c62331fd8d73e994440b7921c)
+[Don't click here](http://korefs.github.io/flappy/) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c)
 
 <div> 
   <a href = "mailto: dev@korex.xyz"><img src="https://img.shields.io/badge/-Pessoal-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
