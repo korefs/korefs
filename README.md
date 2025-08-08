@@ -5,8 +5,8 @@ void Presentation() {
     char name[] = "Gabriel";
     char acknowledgements[] = "Fullstack Software Engineer";
     char position[] = "Specialist Assessor Technology";
-    char location[] = "Rio de Janeiro, RJ, Brazil";
-    char company[] = "eCine Engenharia de Sistemas";
+    char location[] = "Remote";
+    char company[] = "MJV Technology & Innovation";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
     char mail[] = "kore@null.net";
 }
