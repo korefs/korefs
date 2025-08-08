@@ -3,7 +3,8 @@
 
 void Presentation() {
     char name[] = "Gabriel";
-    char acknowledgements[] = "Software Engineer";
+    char acknowledgements[] = "Fullstack Software Engineer";
+    char position[] = "Specialist Assessor Technology";
     char location[] = "Rio de Janeiro, RJ, Brazil";
     char company[] = "eCine Engenharia de Sistemas";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
