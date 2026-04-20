@@ -12,10 +12,10 @@ void Presentation() {
 }
 ```
 
-[More about me](http://korefs.vercel.app) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c)
+[More about me](http://short.okore.me) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c)
 
 <div> 
-  <a href = "mailto: dev@korex.xyz"><img src="https://img.shields.io/badge/-Pessoal-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: kore@null.net"><img src="https://img.shields.io/badge/-Pessoal-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto: kore.dv7@engineer.com"><img src="https://img.shields.io/badge/-Contact-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/-okore-%fff?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-anjos-603776172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
