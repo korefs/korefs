@@ -13,6 +13,7 @@ void Presentation() {
 ```
 
 [More about me](http://short.okore.me) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c)
+[livets](https://livets.okore.me/) [drawdb](https://drawdb.okore.me/) [finance](https://finance.okore.me/) [storyflow](https://storyflow.okore.me/)
 
 <div> 
   <a href = "mailto: kore@okore.me"><img src="https://img.shields.io/badge/-Contact-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
