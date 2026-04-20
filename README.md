@@ -8,7 +8,7 @@ void Presentation() {
     char location[] = "Remote";
     char company[] = "MJV Technology & Innovation";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
-    char mail[] = "kore@null.net";
+    char mail[] = "kore@okore.me";
 }
 ```
 
