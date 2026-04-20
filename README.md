@@ -6,7 +6,7 @@ void Presentation() {
     char acknowledgements[] = "Fullstack Software Engineer";
     char position[] = "Specialist Assessor Technology";
     char location[] = "Remote";
-    char company[] = "MJV Technology & Innovation";
+    char company[] = "MJV Innovation, Axurion";
     char bio[] = "Root developer with dark circles since 14yo. I learned by making mistakes.";
     char mail[] = "kore@okore.me";
 }
