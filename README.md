@@ -12,7 +12,7 @@ void Presentation() {
 }
 ```
 
-[More about me](http://short.okore.me) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c) [.npmrc](https://gist.github.com/korefs/61e3e8dbe0d9ac101a1c0c293f43913a)
+[More about me](http://x.okore.me) [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c) [.npmrc](https://gist.github.com/korefs/61e3e8dbe0d9ac101a1c0c293f43913a)
 [livets](https://livets.okore.me/) [drawdb](https://drawdb.okore.me/) [finance](https://finance.okore.me/) [storyflow](https://storyflow.okore.me/)
 
 <div> 
