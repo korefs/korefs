@@ -4,6 +4,7 @@
 void Presentation() {
     char name[] = "Gabriel";
     char acknowledgements[] = "Fullstack Software Engineer";
+    char pos[] = "Specialist Software Engineer";
     char company[] = "MJV, Bradesco";
     char mail[] = "kore@null.net";
 }
