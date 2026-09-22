@@ -11,7 +11,7 @@ void Presentation() {
 ```
 
 [settings.json](https://gist.github.com/korefs/03cad25c62331fd8d73e994440b7921c) [.npmrc](https://gist.github.com/korefs/61e3e8dbe0d9ac101a1c0c293f43913a)
-[livets](https://livets.vercel.app/) [storyflow](https://storyflow.erok.qzz.io/)
+[livets](https://livets.vercel.app/) [storyflow](https://storyflow.erok.qzz.io/) [personal](https://korefs.github.io/) [PS4 Jailbreak Hydra](https://korefs.github.io/1352)
 
 see my [skills](https://github.com/korefs/SKILLS#Skills) that I use and recommend for agentic workflows.
 
